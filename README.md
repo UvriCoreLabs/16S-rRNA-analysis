@@ -8,4 +8,4 @@ One of the workflows hugely depends on qiime in addition to a few other stand al
 
 Once these pipelines are stable and properly implemented, we hope to have them run on local galaxy instance. These will be updated through time as may deem necessary.
 
-See full description at the [wiki](https://github.com/AlfredUg/16S-rRNA-analysis/wiki).
+See full description at the [wiki](https://github.com/AlfredUg/16S-rRNA-analysis/wiki/16S-rRNA-analysis---workflow-1).
